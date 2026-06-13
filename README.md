@@ -1,0 +1,2 @@
+# Sdominio
+scrip termux
